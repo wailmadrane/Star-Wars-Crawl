@@ -1,0 +1,17 @@
+html {
+   font-size: 1.5rem;
+}
+
+body {
+   color: blue;
+   background-color: #000;
+   text-align: center;
+
+   padding-top: 3rem;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+   width: 70%;
+   margin: 0 auto;
+}
